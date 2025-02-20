@@ -2,7 +2,7 @@
     "name": "bakrtest/test_packege",
     "description": "A short description of what your package does",
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.0"
     
     },
     "minimum-stability": "dev",
