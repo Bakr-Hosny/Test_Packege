@@ -13,8 +13,8 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:Bakr-Hosny/Test_Packege.git"
+            "url": "https://github.com/Bakr-Hosny/Test_Packege"
         }
     ]
 }
-}
+
