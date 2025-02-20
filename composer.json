@@ -5,9 +5,7 @@
         "php": ">=8.0",
         "alpha/omni-payment": "dev-master",
         "another-vendor/package": "1.*"
-    }
-
-
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
@@ -17,4 +15,3 @@
         }
     ]
 }
-
