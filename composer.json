@@ -1,0 +1,8 @@
+{
+    "name": "vendor/Test_Packege",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=8.0",
+        "another-vendor/package": "1.*"
+    }
+}
