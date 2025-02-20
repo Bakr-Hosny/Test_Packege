@@ -3,7 +3,7 @@
     "description": "A short description of what your package does",
     "require": {
         "php": ">=8.0",
-        "alpha/omni-payment": "dev-master",
+        "alpha/omni-payment": "dev-main",
         "another-vendor/package": "1.*"
     },
     "minimum-stability": "dev",
