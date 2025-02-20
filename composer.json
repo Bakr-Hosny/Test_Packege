@@ -1,5 +1,5 @@
 {
-    "name": "vendor/test_packege",
+    "name": "bakrtest/test_packege",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=8.0",
